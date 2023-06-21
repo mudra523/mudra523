@@ -37,5 +37,5 @@ As an experienced software developer with a passion for technology, I bring a de
 ![My Skills](https://skillicons.dev/icons?i=js,ts,git,html,css,sass,styledcomponents,bootstrap,tailwind,materialui,express,react,redux,next,gatsby,graphql,php,nodejs,laravel,mysql,mongodb,firebase,python,cpp,codepen,vscode,idea,aws,gcp,vercel,netlify,heroku,linux,bash)
 
 
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mudra523&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="mudrakoradia" />
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mudra523&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&locale=en" alt="mudrakoradia" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudra523&layout=compact&theme=buefy&hide_border=true" alt="mudrakoradia"/></p>
