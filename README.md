@@ -4,7 +4,7 @@
   
 - 👨‍💻 Software Developer having three years of Industry Experience.
   
-- 🌟 I prioritize self-motivation and enthusiasm, and I am constantly seeking to expand my knowledge and skill set.
+- 🌟 I prioritize self-motivation and enthusiasm and constantly seek to expand my knowledge and skill set.
   
 - 🌱 Embracing the mindset of a lifelong learner.
   
