@@ -14,23 +14,23 @@
 
 As an experienced software developer with a passion for technology, I bring a deep understanding of languages like JavaScript, Typescript, PHP, and Python to the table. With a strong background in front-end development, I am well-versed in libraries like ReactJS, Redux, NextJS, GatsbyJS, UmiJS, AntD, and MaterialUI. Additionally, I have significant experience in back-end frameworks like Laravel, NodeJS and Django and have worked with CSS utility-based frameworks like Bootstrap and Tailwind.
 
-<h2 align="left">Connect with me:</h2>
+<!-- <h2 align="left">Connect with me:</h2> -->
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mudra523">
-    <img align="left" alt="MudraKoradia" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-  </a>
-  <a href="https://twitter.com/KoradiaMudra">
-    <img align="left" alt="MudraKoradia" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-  </a>
-  <a href=#">
-    <img align="left" alt="MudraKoradia" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-  </a>
-  <a href="https://github.com/mudra523">
-    <img align="left" alt="MudraKoradia" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
-  </a>
-    <img src="https://komarev.com/ghpvc/?username=mudra523&label=Profile%20views&color=0e75b6&style=flat" alt="mudrakoradia" />
-</p>
+<!--   <p align="left"> -->
+<!--   <a href="https://www.linkedin.com/in/mudra523"> -->
+<!--     <img align="left" alt="MudraKoradia" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> -->
+<!--   </a> -->
+<!--   <a href="https://twitter.com/KoradiaMudra"> -->
+<!--     <img align="left" alt="MudraKoradia" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /> -->
+<!--   </a> -->
+<!--   <a href=#"> -->
+<!--     <img align="left" alt="MudraKoradia" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /> -->
+<!--   </a> -->
+<!--   <a href="https://github.com/mudra523"> -->
+<!--     <img align="left" alt="MudraKoradia" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" /> -->
+<!--   </a> -->
+<!--     <img src="https://komarev.com/ghpvc/?username=mudra523&label=Profile%20views&color=0e75b6&style=flat" alt="mudrakoradia" /> -->
+<!-- </p> -->
 
 <h2 align="left">Languages and Tools:</h2>
 
