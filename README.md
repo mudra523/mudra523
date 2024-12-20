@@ -12,7 +12,7 @@
   
 - 🌱 Embracing the mindset of a lifelong learner.
   
-- 🤝 I’m looking for an **Internship** or **Full-Time** opportunity.
+- 🤝 I’m looking **Full-Time** opportunity.
   
 - 📫 Reach me at **mudrakoradiamk@gmail.com**.
 
