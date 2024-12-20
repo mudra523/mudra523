@@ -1,10 +1,10 @@
 <h1 align="left">Hi <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">, I'm Mudra Koradia</h1>
 
-- 🎓 I am a graduate student pursuing my master's in computer science at Pace University.
-
 - 💼 I am working as a Software Developer at New York City Transit MTA.
 
 - 💼 I did work for the Mayor's Office of New York.
+
+- 🎓 I have studied my master's in computer science at Pace University NYC.
   
 - 👨‍💻 Software Developer having 4 years of Industry Experience.
   
