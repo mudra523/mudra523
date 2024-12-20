@@ -18,7 +18,7 @@
 
 As an experienced software developer with a passion for technology, I bring a deep understanding of languages like JavaScript, Typescript, PHP, and Python to the table. With a strong background in front-end development, I am well-versed in libraries like ReactJS, Redux, NextJS, GatsbyJS, UmiJS, AntD, and MaterialUI. Additionally, I have significant experience in back-end frameworks like Java, Spring-Boot, NodeJS, and Django and have worked with CSS utility-based frameworks like Bootstrap and Tailwind.
 
-### Technologies:
+<h2 align="left">Languages and Tools:</h2>
 
 **Programming & Scripting Languages:** Python, Java, C++, C, JavaScript, TypeScript, PHP, HTML, CSS, SQL, Bash
 
@@ -52,8 +52,6 @@ As an experienced software developer with a passion for technology, I bring a de
 <!--   </a> -->
 <!--     <img src="https://komarev.com/ghpvc/?username=mudra523&label=Profile%20views&color=0e75b6&style=flat" alt="mudrakoradia" /> -->
 <!-- </p> -->
-
-<h2 align="left">Languages and Tools:</h2>
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,git,html,css,sass,styledcomponents,bootstrap,tailwind,materialui,java,spring,express,react,redux,next,gatsby,graphql,php,nodejs,laravel,mysql,mongodb,firebase,python,cpp,codepen,vscode,idea,aws,gcp,vercel,netlify,heroku,linux,bash)
 
