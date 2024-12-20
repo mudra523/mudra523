@@ -20,19 +20,19 @@ As an experienced software developer with a passion for technology, I bring a de
 
 ### Technologies:
 
-*Programming & Scripting Languages:* Python, Java, C++, C, JavaScript, TypeScript, PHP, HTML, CSS, SQL, Bash
+**Programming & Scripting Languages:** Python, Java, C++, C, JavaScript, TypeScript, PHP, HTML, CSS, SQL, Bash
 
-*Frameworks / Libraries:* React.js, Next.js, Redux, Gatsby, Django, Node.js, Express.js, Laravel, Ant Design, Material UI, Tailwind 
+**Frameworks / Libraries:** React.js, Next.js, Redux, Gatsby, Django, Node.js, Express.js, Laravel, Ant Design, Material UI, Tailwind 
 
-*Database Management:* MySQL, PostgreSQL, MongoDB, Firebase 
+**Database Management:** MySQL, PostgreSQL, MongoDB, Firebase 
 
-*API Framework:* Axios, SOAP/REST API, GraphQL Apollo Client 
+**API Framework:** Axios, SOAP/REST API, GraphQL Apollo Client 
 
-*DevOps:* AWS, Google Cloud Platform (GCP), Azure, Netlify, Vercel, Heroku 
+**DevOps:** AWS, Google Cloud Platform (GCP), Azure, Netlify, Vercel, Heroku 
 
-*Operating Systems:* Linux, macOS, Windows 
+**Operating Systems:** Linux, macOS, Windows 
 
-*Software / Tools:* Git, GitLab, Click Up, Slack, Trello, Teamwork, Visual Studio Code, Postman, Insomnia, Cypress, Selenium
+**Software / Tools:** Git, GitLab, Click Up, Slack, Trello, Teamwork, Visual Studio Code, Postman, Insomnia, Cypress, Selenium
 
 
 <!-- <h2 align="left">Connect with me:</h2> -->
