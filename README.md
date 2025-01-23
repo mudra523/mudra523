@@ -1,7 +1,5 @@
 <h1 align="left">Hi <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">, I'm Mudra Koradia</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mudra523&label=Profile%20views&color=0e75b6&style=flat" alt="Mudra" /> </p>
-
 - 💼 I am a Software Developer at New York City Transit MTA. I did work for the Mayor's Office of New York.
 
 - 🎓 I have studied my master's in computer science at Pace University NYC.
