@@ -2,7 +2,7 @@
 
 - 💼 I am a Software Developer at New York City Transit MTA. I did work for the Mayor's Office of New York.
   
-- 👨‍💻 Software Developer having 4 years of Industry Experience.
+- 👨‍💻 Software Developer having 5+ years of Industry Experience.
   
 - 🌟 I prioritize self-motivation and enthusiasm and constantly seek to expand my knowledge and skill set.
   
@@ -10,13 +10,13 @@
   
 - 🤝 I’m looking **Full-Time** opportunity.
   
-- 📫 Reach me at **mudrakoradiamk@gmail.com**.
+- 📫 Reach me at **mudrak235@gmail.com**.
 
-As an experienced software developer with a passion for technology, I bring a deep understanding of languages like JavaScript, Typescript, PHP, and Python to the table. With a strong background in front-end development, I am well-versed in libraries like ReactJS, Redux, NextJS, GatsbyJS, UmiJS, AntD, and MaterialUI. Additionally, I have significant experience in back-end frameworks like Java, Spring-Boot, NodeJS, and Django and have worked with CSS utility-based frameworks like Bootstrap and Tailwind.
+As an experienced software developer with a passion for technology, I bring a deep understanding of languages like Java, JavaScript, Typescript, PHP, and Python to the table. With a strong background in front-end development, I am well-versed in libraries like ReactJS, Redux, NextJS, GatsbyJS, UmiJS, AntD, and MaterialUI. Additionally, I have significant experience in back-end frameworks like Java, Spring-Boot, Microservices, NodeJS, and Django and have worked with CSS utility-based frameworks like Bootstrap and Tailwind.
 
 <h2 align="left">Languages and Tools:</h2>
 
-**Programming & Scripting Languages:** Python, Java, C++, C, JavaScript, TypeScript, PHP, HTML, CSS, SQL, Bash
+**Programming & Scripting Languages:** Java, Python, C++, C, JavaScript, TypeScript, PHP, HTML, CSS, SQL, Bash
 
 **Frameworks / Libraries:** React.js, Next.js, Redux, Gatsby, Django, Node.js, Express.js, Laravel, Ant Design, Material UI, Tailwind 
 
